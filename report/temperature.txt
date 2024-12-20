@@ -1,0 +1,1542 @@
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T18:38:02.008004400+02:00
+Living Room 1 : Registered wrong temperature: 27.50 : 2024-09-23T18:38:23.508698700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:38:41.085764600+02:00
+Living Room 1 : Registered wrong temperature: 27.50 : 2024-09-23T18:42:09.585754800+02:00
+Living Room 1 : Registered wrong temperature: 29.25 : 2024-09-23T18:43:07.464629300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:44:13.423394500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:47:38.515575900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:47:59.431116500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:48:33.494266700+02:00
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T18:52:58.610608400+02:00
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T18:53:06.453475300+02:00
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T18:53:11.459246800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:53:16.433557200+02:00
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T18:53:23.456087+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T18:53:24.434998+02:00
+Living Room 1 : Registered wrong temperature: 23.75 : 2024-09-23T18:57:49.463707800+02:00
+Living Room 1 : Registered wrong temperature: 29.19 : 2024-09-23T19:02:20.468991800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:02:58.439300200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:07:15.430228300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:07:36.428189700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:09:13.436753+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:09:38.426327300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:10:02.432633+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:10:06.433472600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:10:20.433227400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:12:37.473616+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:13:06.438286+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:13:09.433857200+02:00
+Living Room 1 : Registered wrong temperature: 24.00 : 2024-09-23T19:13:15.466644500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:15:17.430388200+02:00
+Living Room 1 : Registered wrong temperature: 23.81 : 2024-09-23T19:15:49.452657500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:24:25.485354300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:25:35.422966800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:26:47.424019100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:26:51.424189800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:28:03.419510700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:28:21.429692200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:32:52.635042600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:34:01.421780800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:34:27.427254+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:34:42.428601500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:35:32.431757900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:36:22.432888500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:36:43.428367400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:37:48.418966800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:38:08.427738900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:38:41.429307100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:40:28.430461400+02:00
+Living Room 1 : 23.56 : 2024-09-23T19:41:10.455623900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:42:57.590135+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:46:20.433662500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:47:13.428718900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:47:15.414276400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:48:16.473636500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:48:43.430324400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:48:49.426871+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:48:53.424876500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:50:28.417065700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:52:23.421328700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:53:07.415137900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:53:40.423490700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:54:07.415928+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:54:19.421843700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:54:24.425329600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:54:51.415424800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:55:33.411344800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:56:37.417140+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:58:36.623094+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T19:58:38.424988500+02:00
+Living Room 1 : 23.56 : 2024-09-23T19:59:10.399411300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:00:54.436206900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:01:03.420013100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:03:48.544463600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:04:01.468887900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:04:37.443184200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:05:53.493212300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:05:58.416158800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:06:00.412323800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:06:55.411034200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:07:26.420919600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:09:00.452620900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:09:50.424624300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:11:12.415022+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:11:18.425716500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:14:20.557320700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:15:56.416109700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:16:02.411225600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:16:17.434699400+02:00
+Living Room 1 : 23.44 : 2024-09-23T20:17:10.440961400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:19:49.500725200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:19:58.410853+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:20:18.422481800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:20:34.422321500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:20:47.409137700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:23:48.419336900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:25:53.684512200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:26:48.420674500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:27:17.417502200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:28:32.413450900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:30:35.414410400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:30:40.415504500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:31:24.407814900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:33:12.403648+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:33:29.483935600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:33:46.421084200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:33:53.476923200+02:00
+Living Room 1 : 23.38 : 2024-09-23T20:35:10.433231400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:40:47.605132600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:41:40.412863400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:41:46.411981800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:42:06.407603900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:42:17.446048200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:42:35.405995700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:42:42.418818600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:43:34.415904700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:43:47.408263800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:43:52.401151500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:45:52.141088600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:46:25.947396800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:48:41.945592400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:49:02.948797400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:51:34.999841200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:52:25.975783800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:52:41.977783400+02:00
+Living Room 1 : 23.38 : 2024-09-23T20:53:09.971731300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:56:10.944185400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:56:27.949929900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:56:41.957391300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:57:47.962675900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:58:30.947200300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:58:33.944892700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:58:51.948427600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T20:59:00.945115400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:00:43.947332400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:01:12.944009200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:01:15.972927200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:01:29.939667600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:02:32.948279800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:03:43.951010900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:04:24.944236400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:05:30.953200800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:06:02.940076200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:07:46.940026700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:08:04.953841100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:08:41.945202800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:08:52.957607600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:09:45.948248800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:10:24.939200200+02:00
+Living Room 1 : 23.25 : 2024-09-23T21:11:09.974158800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:11:43.947298400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:11:47.941244400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:14:19.965178100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:14:36.939359500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:16:58.954146300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:17:09.939390500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:17:53.955337600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:19:28.943612800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:20:03.938886+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:22:38.100512400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:22:51.978492100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:24:13.939185800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:24:43.943437300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:25:24.945512100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:26:57.942104600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:27:55.151744+02:00
+Living Room 1 : 23.44 : 2024-09-23T21:29:09.966561300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:29:18.944542+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:29:33.939738400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:29:38.935942200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:31:24.937184400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:31:33.942987800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:31:47.946486700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:33:42.088060600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:33:58.938583700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:34:21.946906500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:35:02.936446800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:35:13.944398900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:35:43.932969400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:36:20.943365900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:40:34.967445700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:40:51.955648600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:41:58.950356700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:42:17.964039300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:43:59.931803500+02:00
+Living Room 1 : 23.44 : 2024-09-23T21:47:10.041685500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:47:41.935346100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:48:19.935358700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:49:03.934835500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:49:18.939664900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:50:08.936859200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:50:14.938126300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:50:40.936070300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:51:29.937402900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:53:43.066831500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:53:56.932592600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:55:23.947005300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:55:33.939129100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:55:36.928474200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:55:54.933614500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:56:48.933087500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:58:16.937044500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T21:58:42.942006200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:00:12.933249+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:02:37.926062200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:02:54.932022100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:03:38.925877+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:04:05.926692+02:00
+Living Room 1 : 23.31 : 2024-09-23T22:05:09.959175400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:05:45.932584100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:07:15.929962+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:08:39.080085100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:09:06.934969600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:09:26.929744100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:09:39.933160600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:10:54.921264800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:12:41.935416500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:13:01.966862700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:14:35.034612100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:14:46.924428900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:15:56.955359+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:16:39.923477200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:16:57.921647100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:17:31.929896400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:20:00.929211700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:20:34.924238600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:20:39.944915400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:21:04.921027600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:22:16.930309600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:22:30.925228500+02:00
+Living Room 1 : 23.31 : 2024-09-23T22:23:09.944498100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:23:37.923447300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:24:35.954662400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:24:47.926060+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:25:37.917293900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:28:01.920179200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:29:07.920419300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:30:24.925119400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:30:50.917024+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:31:03.931354400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:31:56.918424300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:32:20.925403700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:32:36.922164800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:32:39.928466+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:34:08.990864400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:34:40.925078800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:34:53.992691300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:36:02.929616900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:36:07.957587800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:39:25.007321200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:39:33.921328200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:40:28.929440900+02:00
+Living Room 1 : 23.31 : 2024-09-23T22:41:09.951505200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:41:47.927715200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:43:20.925277+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:43:51.915465900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:44:32.008077800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:45:04.920484400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:45:46.918424300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:46:09.916170100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:47:07.925311700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:47:26.923848100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:52:25.928475400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:52:50.921061400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:52:52.917625700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:54:07.911350900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:54:30.918227100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:55:18.920816400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:55:27.923047900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T22:59:03.919924800+02:00
+Living Room 1 : 23.25 : 2024-09-23T22:59:09.937398400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:00:27.945457500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:01:11.933391400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:02:15.912537+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:02:32.913473600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:02:59.931952600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:03:19.906457600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:04:56.947931500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:06:21.948520100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:07:33.935763+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:09:19.906935200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:09:36.909308100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:10:37.913265200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:12:01.917297400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:12:37.908331900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:13:28.914746900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:15:51.096008+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:16:03.916594600+02:00
+Living Room 1 : 23.25 : 2024-09-23T23:17:09.943066300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:17:35.945002700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:18:49.915552100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:21:32.101456200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:21:45.940757900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:22:57.915477400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:22:59.919103500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:23:18.909849500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:26:13.920173500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:26:18.917080+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:27:34.906454400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:27:38.905051400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:29:28.903168200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:31:03.916171100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:31:20.902386800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:31:51.908441700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:33:33.907418800+02:00
+Living Room 1 : 23.06 : 2024-09-23T23:35:09.938362900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:36:34.016707200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:37:31.909614900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:40:19.906587200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:40:28.909621900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:40:40.904745+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:40:57.978884500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:41:03.913120300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:41:47.009234500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:43:53.916819600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:43:57.909283400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:44:09.903797+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:44:44.912712600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:47:13.053066800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:47:20.910641+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:50:55.899130800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:51:37.948315200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:52:06.910743100+02:00
+Living Room 1 : 23.06 : 2024-09-23T23:53:09.930600800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:53:12.910544200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:53:59.908362100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:55:20.897485900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:56:02.901129+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:56:56.899598200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:57:48.897201800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-23T23:58:34.901815100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:01:24.898014+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:02:40.009797800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:03:01.901976200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:04:25.948765900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:06:24.907810400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:06:55.909717500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:08:45.989602800+02:00
+Living Room 1 : 22.94 : 2024-09-24T00:11:09.932248800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:11:40.906494600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:12:00.904436100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:12:41.902824400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:14:51.971781300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:15:40.903652300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:15:53.897615200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:16:37.890613100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:17:15.903956500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:18:09.897407+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:19:16.893473100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:21:06.978988900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:25:29.902546400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:27:10.922759400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:27:37.892437900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:27:53.908033600+02:00
+Living Room 1 : 23.0 : 2024-09-24T00:29:09.915284600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:30:34.902126400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:30:44.923172800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:31:50.892169200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:32:36.894354200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:35:30.896133300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:37:41.923806500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:40:09.895693500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:40:52.888722800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:42:50.967516400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:43:21.887218800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:44:28.894542+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:44:51.889875800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:45:55.893493+02:00
+Living Room 1 : 22.94 : 2024-09-24T00:47:09.918138400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:47:16.886128800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:48:02.077336200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:50:12.889578900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:52:18.884685700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:55:02.952109500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:55:30.896187200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:55:57.887383800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T00:58:24.895729300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:01:16.921752700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:02:29.896744500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:03:39.882121500+02:00
+Living Room 1 : 22.81 : 2024-09-24T01:05:09.918131800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:06:00.882942600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:06:20.426462600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:09:37.465529700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:10:03.433895300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:10:45.424408500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:12:19.465590600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:12:50.437682400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:14:03.430222700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:16:42.439585500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:17:33.451355500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:17:44.429021400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:18:39.435450100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:19:09.436535900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:20:48.425289600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:22:33.472050700+02:00
+Living Room 1 : 22.81 : 2024-09-24T01:23:10.457733400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:23:17.448899500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:24:55.425865200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:27:20.435200300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:27:37.436282100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:29:15.424553400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:30:26.434052+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:30:45.422117400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:34:18.645288900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:35:48.430787300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:35:50.423249100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:38:46.422196600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:40:26.452527800+02:00
+Living Room 1 : 22.81 : 2024-09-24T01:41:10.454470+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:42:35.430816300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:44:25.421845500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:44:47.429169100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:46:21.415905100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:46:37.978183800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:46:45.968618400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:47:46.959523100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:48:25.970805800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:48:54.960833300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:49:02.988702500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:49:33.971856600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:51:15.971610700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:51:44.973249900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:52:00.966310600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:52:59.971557700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:54:38.965666800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:55:02.963628+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:56:40.103855+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:57:11.970595+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:57:20.960275500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:57:33.967467100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:57:43.984835+02:00
+Living Room 1 : 22.87 : 2024-09-24T01:59:09.990818700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:59:39.514018700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:59:41.483250600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T01:59:51.957332200+02:00
+Living Room 1 : Registered wrong temperature: 40.44 : 2024-09-24T01:59:53.000211600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:06:09.049340700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:06:39.967637600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:07:05.967021600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:08:31.957303600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:09:56.955047600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:11:42.050868300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:12:39.959542+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:12:46.967767700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:16:37.962368400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:16:47.952957+02:00
+Living Room 1 : 22.62 : 2024-09-24T02:17:09.994128300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:17:13.958271200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:17:40.954562400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:17:52.993846200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:18:40.955277700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:21:02.957570+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:21:31.962709900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:21:40.959566600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:23:05.959255500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:26:06.952317800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:29:42.047182700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:30:46.962603200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:31:03.953546500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:31:34.957327700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:31:47.951956200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:32:15.955633+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:32:32.962014800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:33:38.959691300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:35:03.952437900+02:00
+Living Room 1 : 22.44 : 2024-09-24T02:35:09.981132700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:38:32.025190200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:39:00.957088700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:39:35.955744700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:41:14.956612100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:41:58.952890100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:43:02.958750700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:43:28.949214600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:45:10.948230100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:46:24.953251900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:46:57.954881100+02:00
+Living Room 1 : 22.37 : 2024-09-24T02:53:10.048779200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:54:11.968723500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:54:18.974711400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:55:14.948308100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:56:52.948317300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T02:56:59.946310300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:00:24.025720200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:00:26.941628+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:04:03.946877700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:05:30.000803400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:06:16.944281900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:08:08.943253400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:09:05.946204+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:09:39.942002900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:10:10.951998+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:10:57.956829600+02:00
+Living Room 1 : 22.31 : 2024-09-24T03:11:09.985561900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:11:15.941430700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:11:54.940841+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:12:07.950597800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:13:04.948965300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:13:35.495425200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:14:32.490055700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:16:20.670330600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:16:23.490897700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:17:37.487806200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:18:00.491430100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:20:17.488935700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:20:52.497396300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:21:19.498295300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:21:55.485801400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:23:00.490674900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:26:29.558104500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:27:24.489253+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:27:28.486493800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:28:17.487219200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:28:31.488919500+02:00
+Living Room 1 : 22.25 : 2024-09-24T03:29:10.513481+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:30:23.480976100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:31:37.585240700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:32:05.491035800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:32:46.490905200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:33:16.493239500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:33:18.491430600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:33:36.483091300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:33:58.493686700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:34:41.485902900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:37:24.514853400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:37:43.491094100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:38:36.492143600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:39:05.482473200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:39:24.493358200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:39:54.483729+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:40:16.491826500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:41:30.492306+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:42:52.621321200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:46:23.488927400+02:00
+Living Room 1 : 22.19 : 2024-09-24T03:47:10.509760300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:47:43.489159100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:48:35.484130600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:49:02.490711700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:50:10.478525500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:51:48.486902600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:52:46.549875600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:54:59.484663100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:55:28.495251200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:55:31.485928200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:56:28.488267100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:57:28.481625700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:58:06.487549800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:59:24.489928500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T03:59:36.483729300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:00:03.483839400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:01:51.489381400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:03:06.496366+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:04:08.486949100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:04:14.487961400+02:00
+Living Room 1 : 22.13 : 2024-09-24T04:05:10.501493800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:09:59.601087100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:11:04.488223500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:11:35.478655600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:11:59.477329700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:13:35.481837500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:13:46.474544600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:14:12.481678900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:15:25.635188+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:16:27.483682700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:21:58.669795500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:22:30.484881100+02:00
+Living Room 1 : 21.94 : 2024-09-24T04:23:10.506027300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:24:16.471223900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:25:05.473247600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:25:18.475060500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:26:19.473245900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:26:40.482045+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:26:50.470914+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:28:14.484757900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:30:28.473671600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:32:15.536274600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:33:13.468248400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:34:09.477239100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:35:51.469685500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:39:09.652587700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:40:12.467202+02:00
+Living Room 1 : 21.75 : 2024-09-24T04:41:10.507023400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:41:19.474902300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:44:36.519404800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:45:10.478922800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:45:39.471658600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:45:59.476780600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:48:14.463278200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:50:07.481336900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T04:57:10.617771700+02:00
+Living Room 1 : 21.62 : 2024-09-24T04:59:12.913181900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:01:13.461829700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:01:50.455603200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:03:34.460874400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:04:02.457340600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:06:52.819792100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:07:22.362353100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:09:21.376473200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:09:35.370484700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:11:13.400882700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:11:42.358283500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:12:18.362456800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:14:11.361477700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:16:08.364903300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:16:45.391714+02:00
+Living Room 1 : 21.44 : 2024-09-24T05:17:10.392262200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:20:43.363872900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:21:23.366435100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:22:06.360206400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:22:33.367020500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:22:49.368952200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:23:45.357841700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:27:30.511291200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:29:20.356664600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:29:54.349785200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:30:00.348310100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:32:10.369791800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:33:16.361890500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:34:34.349374700+02:00
+Living Room 1 : 21.5 : 2024-09-24T05:35:10.390273400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:37:07.352481300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:39:18.351759500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:39:30.362616+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:40:48.350117500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:41:05.375461700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:41:20.353313100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:42:15.489372300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:44:17.409315+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:44:26.354974900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:45:05.905089200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:46:02.892768500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:46:21.902550300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:46:23.896173900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:46:46.903830900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:49:14.906513300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:49:22.894251500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:49:45.894912700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:53:00.003874200+02:00
+Living Room 1 : 21.37 : 2024-09-24T05:53:10.922195600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:57:23.892916900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:57:30.896550500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:57:40.899753900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T05:57:45.895979600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:00:38.891475900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:03:25.067809100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:03:36.900675900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:03:51.898100300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:04:06.888977800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:08:55.011971600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:09:40.887203+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:09:53.888825800+02:00
+Living Room 1 : 21.25 : 2024-09-24T06:11:10.922895600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:11:25.957834900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:13:00.894682200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:15:05.100333600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:15:42.891844700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:16:21.894271700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:18:06.897425400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:18:44.897784700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:18:53.891310200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:19:23.897154900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:19:30.898732500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:21:26.034265200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:22:05.948316500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:22:07.894296+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:22:10.889765900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:22:20.895966100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:22:33.895257400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:24:31.895252800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:26:18.888763+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:26:55.882672100+02:00
+Living Room 1 : 21.06 : 2024-09-24T06:29:10.924250900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:29:13.897322600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:30:10.885839900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:30:24.888388600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:33:16.917585700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:34:28.889736200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:35:28.881880900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:37:07.894252800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:38:08.892136600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:40:37.881170300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:44:00.004649800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:46:13.882610800+02:00
+Living Room 1 : 21.25 : 2024-09-24T06:47:10.910561100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:47:37.880652900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:47:49.891539200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:56:53.960464400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:57:41.890607700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:58:49.906686100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:59:08.876634700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T06:59:18.894252600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:00:50.877006100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:01:10.882344400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:01:57.074025900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:02:42.881569900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:04:03.886428300+02:00
+Living Room 1 : 22.25 : 2024-09-24T07:05:10.915872400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:06:42.879563500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:08:04.077342200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:08:15.882839600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:08:42.875325800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:09:58.882603800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:10:24.887048300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:10:59.871971+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:14:18.060741400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:14:31.910579+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:15:00.881360200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:17:08.420461300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:17:10.429721400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:18:42.421679200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:19:02.476472100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:19:41.438202300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:19:44.426486900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:20:34.423614700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:22:28.422053+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:23:04.421376700+02:00
+Living Room 1 : 22.5 : 2024-09-24T07:23:10.456527500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:23:49.457720200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:24:21.435117500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:24:25.442661700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:24:32.413938900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:25:16.423477600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:25:21.433253200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:32:10.431532800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:36:48.415200800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:37:40.424659500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:40:07.416396300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:40:58.423250600+02:00
+Living Room 1 : 22.87 : 2024-09-24T07:41:10.443086800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:41:37.436253500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:41:39.411311900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:42:05.430343200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:43:33.436093400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:44:21.427514100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:44:43.422420200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:46:17.419814300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:47:14.415610400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:48:39.413746100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:48:42.421459500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:48:52.410992+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:51:27.567643700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:52:29.430630900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:53:11.419665900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:56:51.567166100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:57:09.463890300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:58:11.412758500+02:00
+Living Room 1 : 23.12 : 2024-09-24T07:59:10.440919600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T07:59:24.369097+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:00:39.422656200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:01:13.442261700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:02:35.449252800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:06:40.435946500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:07:08.431381900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:07:46.406294900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:11:35.403812700+02:00
+Living Room 1 : 23.38 : 2024-09-24T08:17:10.580920900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:18:00.415533+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:18:11.418606200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:23:39.500987100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:30:19.487155100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:30:55.400712200+02:00
+Living Room 1 : 23.5 : 2024-09-24T08:35:10.443393100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:36:31.417747+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:37:19.401984300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:37:36.413635800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:38:17.446267800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:50:35.413004700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:50:49.412352800+02:00
+Living Room 1 : 23.38 : 2024-09-24T08:53:10.431974+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:56:59.425385200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T08:57:21.434983400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:06:49.545254+02:00
+Living Room 1 : 23.31 : 2024-09-24T09:11:10.427058200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:11:28.408552500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:19:25.414220200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:19:30.395153300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:23:20.389867600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:24:27.508770100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:24:54.405232900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:25:41.408344300+02:00
+Living Room 1 : 23.38 : 2024-09-24T09:29:10.424692700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:33:53.440817100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:38:02.397253900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:38:49.403843700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:41:30.385542900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:43:50.592073900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:46:56.452772800+02:00
+Living Room 1 : 23.5 : 2024-09-24T09:47:10.415131+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:48:25.388150400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:52:26.395389100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:55:13.427148100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:55:43.419491400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T09:57:06.420722300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:00:39.454761100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:01:04.413777700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:02:06.417754100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:02:35.395223300+02:00
+Living Room 1 : 23.5 : 2024-09-24T10:05:10.414272300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:05:21.394252300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:11:34.427540700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:12:27.384389500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:20:18.534062200+02:00
+Living Room 1 : 23.5 : 2024-09-24T10:23:10.414407300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:28:49.585109900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:31:23.387285600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:31:25.378897200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:32:21.379038200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:33:39.386799+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:34:30.387573400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:38:13.375809+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:40:57.382604800+02:00
+Living Room 1 : 23.56 : 2024-09-24T10:41:10.422209200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:41:34.375438500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:49:36.582384500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:50:39.372442800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:51:28.386714+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:57:29.475201100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T10:58:15.373548300+02:00
+Living Room 1 : 23.62 : 2024-09-24T10:59:10.403819600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:00:30.373011400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:10:31.427556600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:12:01.381352800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:15:13.373504500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:16:55.369069700+02:00
+Living Room 1 : 23.62 : 2024-09-24T11:17:10.395880300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T11:18:11.371074+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:31:50.584290800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:36:39.781301700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:38:32.208799500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:39:11.128399600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:39:39.174252200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:42:54.156256500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:45:21.803070800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T16:51:00.158858700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:29:46.060618400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:29:52.519867600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:30:02.515895300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:31:01.518186400+02:00
+Living Room 1 : Registered wrong temperature: 32.69 : 2024-09-24T17:31:03.544252800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:31:31.519820300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:33:09.362374700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:33:21.336008100+02:00
+Living Room 1 : Registered wrong temperature: 28.31 : 2024-09-24T17:33:35.096611800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:34:08.068503300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:34:40.066002100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:34:42.083627900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:35:07.063989100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:35:30.078907300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:35:42.083088500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:36:38.078782600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:37:21.060262300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:37:28.073885200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:37:32.059816+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:37:50.067307700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:37:56.073372400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:38:10.064905+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:38:13.066002400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:51:57.991538500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:52:48.958306800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:54:01.964775700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:55:32.955990800+02:00
+Living Room 1 : 24.06 : 2024-09-24T17:56:55.981661200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:57:34.954858500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:57:55.958846700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T17:59:09.992096900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:00:04.962376100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:01:31.953798100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:01:36.951990400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:04:30.956264300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:04:32.952264300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:05:40.959264600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:07:51.155991200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:10:41.957633200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:12:18.974378200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:13:02.058564800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:14:28.954254500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:14:34.961403600+02:00
+Living Room 1 : 24.0 : 2024-09-24T18:14:55.986756500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:15:45.985443+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:16:02.955264700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:16:04.961990100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:16:45.977550200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:17:23.961804700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:19:34.058660600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:21:37.986090300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:22:30.951777400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:22:48.993732700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:24:55.990338+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:27:10.957513200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:27:14.963082900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:28:21.996521100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:28:33.981938500+02:00
+Living Room 1 : 24.0 : 2024-09-24T18:32:56.064306500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:38:33.065927700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:40:34.013118500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:44:20.967602300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:45:30.960703600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:45:39.967692400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:45:42.962698800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:48:30.994116800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:49:54.966822800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:50:28.962653800+02:00
+Living Room 1 : 24.0 : 2024-09-24T18:50:55.993418700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:52:57.982626600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:53:46.052312600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:57:06.967040400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:58:07.967500100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:58:46.967065700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T18:59:25.977901700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:02:51.985299500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:03:26.973361+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:03:46.962442700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:04:35.970764700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:06:54.974485600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:07:16.978788300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:07:21.972438200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:07:30.012074300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:07:51.957292800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:07:54.504749200+02:00
+Living Room 1 : 23.94 : 2024-09-24T19:08:55.542385+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:10:11.515778200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:11:13.512357300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:14:15.510264300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:14:36.508248100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:15:41.514556600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:16:40.511983500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:17:17.509053700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:17:22.506347100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:17:34.503225200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:17:44.507724400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:18:07.517763300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:19:11.513746600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:19:40.507303500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:22:12.514731100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:23:15.519675100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:23:53.520751400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:24:39.533692500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:26:07.506062600+02:00
+Living Room 1 : 23.94 : 2024-09-24T19:26:55.537897400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:28:46.510446800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:30:05.522051700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:30:38.519067600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:31:02.520522+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:31:11.519738600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:33:21.510772800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:38:51.513420600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:40:00.506473600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:40:20.520813900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:41:32.511167600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:41:54.517102800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:42:07.506990100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:43:35.509775100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:43:41.508347400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:43:53.523241500+02:00
+Living Room 1 : 23.87 : 2024-09-24T19:44:55.536903500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:45:33.532131100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:46:21.516122300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:47:19.511981600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:49:23.513014900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:50:46.523260200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:54:12.521319500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:55:51.521735700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:56:18.513267600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:56:38.518413300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T19:57:42.523719400+02:00
+Living Room 1 : 23.94 : 2024-09-24T20:02:55.561177+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:03:48.523251+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:07:29.515509300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:07:34.513128200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:08:29.531875400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:08:32.479351100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:10:36.526780600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:11:15.521763100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:11:35.520748900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:12:52.563900500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:14:32.519944500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:14:56.529581200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:15:32.518056400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:16:00.518788+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:17:41.528878100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:18:28.517094400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:18:55.529946200+02:00
+Living Room 1 : 23.94 : 2024-09-24T20:20:55.554587900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:21:02.525905700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:21:45.531625100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:22:24.530225+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:22:31.522990600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:23:42.531452900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:25:31.532239500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:26:16.526049900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:26:21.522788200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:28:34.671085+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:32:22.527601500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:33:48.635144700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:38:14.532922500+02:00
+Living Room 1 : 23.94 : 2024-09-24T20:38:55.632159800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:38:59.521478900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:40:19.553134600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:40:23.533250900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:41:05.527206300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:42:26.535396800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:42:36.527539400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:42:59.530100300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:43:50.533107600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:43:57.526447400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:45:16.534847+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:49:34.620637200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:51:06.522691900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:52:30.526428+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:52:57.535679400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:52:59.540435700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:56:32.645253100+02:00
+Living Room 1 : 23.94 : 2024-09-24T20:56:55.556272700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T20:58:56.534249800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:02:12.619607800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:03:33.536668100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:05:56.527196+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:10:40.733469+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:11:38.527249100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:12:03.528925300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:13:48.540774800+02:00
+Living Room 1 : 23.94 : 2024-09-24T21:14:55.554614400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:15:46.720462100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:16:05.536098200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:16:47.529985600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:17:36.538242100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:20:49.621299300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:22:41.540556300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:23:41.545276100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:24:28.531951800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:25:11.531018+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:26:13.629250300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:26:58.543250900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:27:22.537358400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:27:38.540061300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:29:23.543250200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:29:32.539288800+02:00
+Living Room 1 : 23.94 : 2024-09-24T21:32:55.666427400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:32:58.544529200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:33:42.537022700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:35:08.495065200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:37:36.542676700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:38:19.549420900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:41:53.536090400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:42:36.700174900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:45:29.544869400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:46:31.546631100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:48:00.693632100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:50:44.542603600+02:00
+Living Room 1 : 23.94 : 2024-09-24T21:50:55.573249300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:52:41.546607900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:57:17.552798400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T21:58:03.545488700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:03:46.694244700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:08:37.543677900+02:00
+Living Room 1 : 23.87 : 2024-09-24T22:08:55.565552700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:09:01.542050400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:09:05.539596700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:11:11.549286700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:12:39.567163800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:14:18.559247700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:14:41.540774900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:17:08.552107300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:20:54.618156100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:22:08.546130+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:24:19.571127100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:26:01.607225800+02:00
+Living Room 1 : 23.87 : 2024-09-24T22:26:58.546731+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:27:20.090875700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:29:16.096288+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:32:29.119953700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:33:12.089430+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:35:09.092365600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:37:12.093752400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:37:35.089388900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:37:39.096165500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:37:41.087372500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:37:48.101369400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:39:36.085050500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:41:48.102883200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:42:19.108626900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:42:34.096968600+02:00
+Living Room 1 : 23.81 : 2024-09-24T22:44:56.118918100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:46:56.250131200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:47:06.095454700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:48:26.094508100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:49:20.096094200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:50:27.098662900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:51:02.096513900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:52:55.283075600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:53:11.117391600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:53:49.091316900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:54:45.104563500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T22:55:58.097120100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:00:38.138095700+02:00
+Living Room 1 : 23.81 : 2024-09-24T23:02:56.119650800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:03:39.094399800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:03:42.094689700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:04:03.094250400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:04:09.102678700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:04:29.096884100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:04:52.099171200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:05:57.220011700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:08:12.101516700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:11:00.129718300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:12:39.103262+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:16:55.262393600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:18:36.103730+02:00
+Living Room 1 : 23.75 : 2024-09-24T23:20:56.130666700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:20:57.102405500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:22:00.211591500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:22:13.106280800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:25:58.130372700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:26:08.107374400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:26:39.124358+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:28:37.102935400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:33:40.240309200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:33:46.105404500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:33:56.129223900+02:00
+Living Room 1 : 23.75 : 2024-09-24T23:38:56.260995900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:39:24.100071200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:40:31.106151800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:41:13.100276900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:41:49.104269700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:42:08.110947100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:42:23.109054700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:43:06.100675500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:43:36.107006400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:43:51.107455800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:44:01.107223100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:44:45.105812800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:45:58.112608300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:46:25.099764300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:49:24.195209300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:49:28.110529400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:49:45.133040900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:50:44.103378800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:52:36.104437300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:54:35.296351200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:55:01.128086200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:55:11.102786300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:56:13.109883300+02:00
+Living Room 1 : 23.62 : 2024-09-24T23:56:56.128709800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:57:22.106877200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-24T23:58:54.105583+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:02:16.308457200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:03:00.110549500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:04:41.107177600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:05:46.115209700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:07:10.129957400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:09:23.116911400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:12:13.310304300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:12:29.103923+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:13:59.104210+02:00
+Living Room 1 : 23.62 : 2024-09-25T00:14:56.131642900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:15:32.110199300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:15:49.114169700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:17:53.305091200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:18:43.150019500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:19:22.143251900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:19:26.167742+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:19:46.177878+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:20:06.114198600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:20:17.111842+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:21:36.135684800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:22:08.138230700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:23:26.302169700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:23:55.109594300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:24:33.147780600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:27:03.117347900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:29:06.282611500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:31:04.122838200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:31:12.113550300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:31:43.152089900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:32:18.114759+02:00
+Living Room 1 : 23.62 : 2024-09-25T00:32:56.140411500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:33:39.124799900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:35:22.148483900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:37:43.111799100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:38:08.114854100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:40:03.130526700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:41:29.122795100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:42:53.119776800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:43:00.125064100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:43:44.126629700+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:43:56.147300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:44:53.125243500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:45:34.124309400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:47:31.118331400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:48:19.130181500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:48:21.114704400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:48:38.141852600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:50:23.241975100+02:00
+Living Room 1 : 23.56 : 2024-09-25T00:50:56.156050500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:51:46.140140600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:52:14.128545100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:53:30.118546900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:54:20.128998+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:54:45.156039900+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:56:02.193953300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:56:47.126676600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T00:56:51.130197600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:00:06.146347+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:00:13.144795800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:00:15.143394400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:00:41.159467600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:04:13.124453200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:07:22.150392400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:07:43.134921700+02:00
+Living Room 1 : 23.56 : 2024-09-25T01:08:56.157128600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:09:10.125954400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:10:29.129396200+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:12:52.296450800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:14:54.132032500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:15:21.122779500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:17:47.132484+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:17:54.130552400+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:18:24.134336100+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:19:53.119684800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:20:26.133396800+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:22:11.129895+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:22:31.136772500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:24:04.124418500+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:24:14.136341600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:24:19.165727600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:24:22.159729600+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:25:49.133414700+02:00
+Living Room 1 : 23.5 : 2024-09-25T01:26:56.158136300+02:00
+Living Room 1 : Temperature sensor isn't working : 2024-09-25T01:27:43.199917700+02:00
+Living Room 1 : 23.31 : 2024-09-25T19:54:21.365151900+02:00
+Living Room 1 : 23.38 : 2024-09-25T20:12:21.276055900+02:00
+Living Room 1 : 23.44 : 2024-09-25T20:30:21.422064700+02:00
+Living Room 1 : 23.5 : 2024-09-25T20:48:21.348814700+02:00
+Living Room 1 : 23.5 : 2024-09-25T21:06:21.290429100+02:00
+Living Room 1 : 23.5 : 2024-09-25T21:24:21.440309600+02:00
+Living Room 1 : 23.56 : 2024-09-25T21:42:21.263856300+02:00
+Living Room 1 : 23.56 : 2024-09-25T22:00:23.704198400+02:00
+Living Room 1 : 23.56 : 2024-09-25T22:18:21.461831500+02:00
+Living Room 1 : 23.56 : 2024-09-25T22:36:21.404522700+02:00
+Living Room 1 : 23.56 : 2024-09-25T22:54:21.335851200+02:00
+Living Room 1 : 23.5 : 2024-09-25T23:12:21.305111500+02:00
+Living Room 1 : Registered wrong temperature: 28.31 : 2024-09-25T23:14:28.303355400+02:00
+Living Room 1 : 23.31 : 2024-09-25T23:30:21.418170900+02:00
+Living Room 1 : 23.31 : 2024-09-25T23:48:21.365061800+02:00
+Living Room 1 : 23.38 : 2024-09-26T00:06:21.500721300+02:00
+Living Room 1 : 23.31 : 2024-09-26T00:24:21.449848100+02:00
+Living Room 1 : 23.31 : 2024-09-26T00:42:21.383838700+02:00
+Living Room 1 : 23.25 : 2024-09-26T01:00:21.323299600+02:00
+Living Room 1 : 23.25 : 2024-09-26T01:18:21.462710200+02:00
+Living Room 1 : 23.31 : 2024-09-26T01:36:21.403998500+02:00
+Living Room 1 : 23.19 : 2024-09-26T01:54:21.347316200+02:00
+Living Room 1 : 23.19 : 2024-09-26T02:12:21.478887100+02:00
+Living Room 1 : 23.19 : 2024-09-26T02:30:21.432681800+02:00
+Living Room 1 : 23.12 : 2024-09-26T02:48:21.358903+02:00
+Living Room 1 : 23.12 : 2024-09-26T03:06:21.514220100+02:00
+Living Room 1 : 23.06 : 2024-09-26T03:24:21.456534+02:00
+Living Room 1 : 23.0 : 2024-09-26T03:42:21.396990100+02:00
+Living Room 1 : 23.0 : 2024-09-26T04:00:21.535041700+02:00
+Living Room 1 : 23.06 : 2024-09-26T04:18:21.464415700+02:00
+Living Room 1 : 22.94 : 2024-09-26T04:36:21.415707700+02:00
+Living Room 1 : 22.87 : 2024-09-26T04:54:21.554513+02:00
+Living Room 1 : 22.87 : 2024-09-26T05:12:21.490629600+02:00
+Living Room 1 : 22.81 : 2024-09-26T05:30:21.434465100+02:00
+Living Room 1 : 22.81 : 2024-09-26T05:48:21.367548800+02:00
+Living Room 1 : 22.81 : 2024-09-26T06:06:21.381421300+02:00
+Living Room 1 : 22.81 : 2024-09-26T06:24:21.455130600+02:00
+Living Room 1 : 22.75 : 2024-09-26T06:42:21.398905200+02:00
+Living Room 1 : 22.75 : 2024-09-26T07:00:21.532467100+02:00
+Living Room 1 : 22.75 : 2024-09-26T07:18:21.477145600+02:00
+Living Room 1 : 22.94 : 2024-09-26T07:36:21.421101600+02:00
+Living Room 1 : 23.12 : 2024-09-26T07:54:21.564642200+02:00
+Living Room 1 : 23.0 : 2024-09-26T08:12:21.497055100+02:00
+Living Room 1 : 23.0 : 2024-09-26T08:30:21.439179200+02:00
+Living Room 1 : 22.94 : 2024-09-26T08:48:21.577047700+02:00
+Living Room 1 : 22.94 : 2024-09-26T09:06:21.530869+02:00
+Living Room 1 : 23.0 : 2024-09-26T09:24:21.465470+02:00
+Living Room 1 : 23.12 : 2024-09-26T09:42:21.611765400+02:00
+Living Room 1 : 23.19 : 2024-09-26T10:00:21.555509900+02:00
+Living Room 1 : 23.25 : 2024-09-26T10:18:21.502244700+02:00
+Living Room 1 : 23.19 : 2024-09-26T10:36:21.636337+02:00
+Living Room 1 : 23.19 : 2024-09-26T10:54:22.182594400+02:00
+Living Room 1 : 23.25 : 2024-09-26T11:12:21.912633700+02:00
+Living Room 1 : 23.25 : 2024-09-26T11:30:21.849824100+02:00
+Living Room 1 : 23.25 : 2024-09-26T11:48:21.802648700+02:00
+Living Room 1 : 23.19 : 2024-09-26T12:06:21.936013100+02:00
+Living Room 1 : 23.31 : 2024-09-26T12:24:21.880276800+02:00
+Living Room 1 : 23.31 : 2024-09-26T12:42:21.824462+02:00
+Testing : Temperature sensor isn't working : 2024-11-09T13:14:26.601474600+01:00
+Testing : Temperature sensor isn't working : 2024-11-09T13:21:30.730704800+01:00
+Testing : Registered wrong temperature: 85.00 : 2024-11-09T13:50:24.229763800+01:00
+Testing : Registered wrong temperature: 24.19 : 2024-11-09T13:51:50.078925300+01:00
+Testing : Registered wrong temperature: 25.75 : 2024-11-09T13:52:46.375477400+01:00
+Testing : Registered wrong temperature: 25.62 : 2024-11-09T13:56:19.585514300+01:00
+Testing : Registered wrong temperature: 24.00 : 2024-11-09T13:56:51.474228200+01:00
+Testing : 23.69 : 2024-11-09T14:02:19.629755200+01:00
+Testing : 23.62 : 2024-11-09T14:08:19.690176700+01:00
+Testing : 23.56 : 2024-11-09T14:14:19.742298+01:00
+Testing : 23.56 : 2024-11-09T14:20:19.592853900+01:00
+Testing : 23.56 : 2024-11-09T14:26:19.649942400+01:00
+Testing : 23.56 : 2024-11-09T14:32:19.695427100+01:00
+Testing : 23.56 : 2024-11-09T14:38:19.743170400+01:00
+Testing : 23.56 : 2024-11-09T14:44:19.792369300+01:00
+Testing : 23.56 : 2024-11-09T14:50:19.851699100+01:00
+Testing : 23.56 : 2024-11-09T14:56:19.707456700+01:00
+Testing : 23.56 : 2024-11-09T15:02:19.759777500+01:00
+Testing : 23.56 : 2024-11-09T15:08:19.814070300+01:00
+Testing : 23.56 : 2024-11-09T15:14:19.866788100+01:00
+Testing : 23.56 : 2024-11-09T15:20:19.915008+01:00
+Testing : 23.56 : 2024-11-09T15:26:19.967672400+01:00
+Testing : 23.56 : 2024-11-09T15:32:20.018752400+01:00
+Testing : 23.56 : 2024-11-09T15:38:19.875526500+01:00
+Testing : 23.56 : 2024-11-09T15:44:19.928313700+01:00
+Testing : 23.5 : 2024-11-09T15:50:19.972400900+01:00
+Testing : 23.5 : 2024-11-09T15:56:20.026580200+01:00
+Testing : 23.56 : 2024-11-09T16:02:20.092143300+01:00
+Testing : 23.56 : 2024-11-09T16:08:20.148176500+01:00
+Testing : 23.5 : 2024-11-09T16:14:20.004824800+01:00
+Testing : 23.5 : 2024-11-09T16:20:20.041564200+01:00
+Testing : 23.5 : 2024-11-09T16:26:20.095639100+01:00
+Testing : 23.5 : 2024-11-09T16:32:20.153307900+01:00
+Testing : 23.5 : 2024-11-09T16:38:20.197494300+01:00
+Testing : 23.5 : 2024-11-09T16:44:20.255628900+01:00
+Testing : 23.5 : 2024-11-09T16:50:20.298565300+01:00
+Testing : 23.5 : 2024-11-09T16:56:20.159125500+01:00
+Testing : 23.5 : 2024-11-09T17:02:20.215942300+01:00
+Testing : 23.5 : 2024-11-09T17:08:20.260376900+01:00
+Testing : 23.56 : 2024-11-09T17:14:20.323448300+01:00
+Testing : 23.5 : 2024-11-09T17:20:20.373076300+01:00
+Testing : 23.5 : 2024-11-09T17:26:20.422961400+01:00
+Testing : 23.5 : 2024-11-09T17:32:20.266472100+01:00
+Testing : 23.5 : 2024-11-09T17:38:20.321928500+01:00
+Testing : 23.5 : 2024-11-09T17:44:20.380125600+01:00
+Testing : 23.5 : 2024-11-09T17:49:09.152552800+01:00
+Testing : 23.5 : 2024-11-09T17:49:13.022715100+01:00
+Testing : 23.5 : 2024-11-09T17:49:14.636308900+01:00
+Testing : 23.5 : 2024-11-09T17:49:16.026132600+01:00
+Testing : 23.56 : 2024-11-09T17:55:06.138761500+01:00
+Testing : 23.5 : 2024-11-09T18:01:06.197416400+01:00
+Testing : 23.56 : 2024-11-09T18:07:06.241065600+01:00
+Testing : 23.56 : 2024-11-09T18:13:06.400101800+01:00
+Testing : 23.56 : 2024-11-09T18:19:06.410077500+01:00
+Testing : 23.56 : 2024-11-09T18:25:06.198810400+01:00
+Testing : 23.56 : 2024-11-09T18:31:06.259659500+01:00
+Testing : 23.56 : 2024-11-09T18:37:06.318058100+01:00
+Testing : 23.56 : 2024-11-09T18:43:06.364403700+01:00
+Testing : 23.56 : 2024-11-09T18:49:06.455788500+01:00
+Testing : 23.56 : 2024-11-09T18:55:06.315806+01:00
+Testing : 23.56 : 2024-11-09T19:01:06.623005+01:00
+Testing : 23.56 : 2024-11-09T19:07:08.801041500+01:00
+Testing : 23.56 : 2024-11-09T19:13:06.017347+01:00
+Testing : 23.56 : 2024-11-09T19:19:06.069575100+01:00
+Testing : 23.62 : 2024-11-09T19:25:06.119358700+01:00
+Testing : 23.62 : 2024-11-09T19:31:06.178590200+01:00
+Testing : 23.62 : 2024-11-09T19:37:06.032384800+01:00
+Testing : 23.62 : 2024-11-09T19:43:06.072102200+01:00
+Testing : 23.62 : 2024-11-09T19:49:06.130428+01:00
+Testing : 23.62 : 2024-11-09T19:55:06.174558200+01:00
+Testing : 23.62 : 2024-11-09T20:01:06.239667400+01:00
+Testing : 23.62 : 2024-11-09T20:07:06.286363100+01:00
+Testing : 23.62 : 2024-11-09T20:13:06.341061200+01:00
+Testing : 23.62 : 2024-11-09T20:19:06.388996900+01:00
+Testing : 23.62 : 2024-11-09T20:25:06.245579+01:00
+Testing : 23.62 : 2024-11-09T20:31:06.299416100+01:00
+Testing : 23.62 : 2024-11-09T20:37:06.354000100+01:00
+Testing : 23.62 : 2024-11-09T20:43:06.397171500+01:00
+Testing : 23.62 : 2024-11-09T20:49:06.339244100+01:00
+Testing : 23.62 : 2024-11-09T20:55:06.520184700+01:00
+Testing : 23.62 : 2024-11-09T21:01:06.569116700+01:00
+Testing : 23.62 : 2024-11-09T21:07:06.611331700+01:00
+Testing : 23.62 : 2024-11-09T21:13:06.463063300+01:00
+Testing : 23.62 : 2024-11-09T21:19:06.521520800+01:00
+Testing : 23.62 : 2024-11-09T21:25:06.566058100+01:00
+Testing : 23.62 : 2024-11-09T21:31:06.639027200+01:00
+Testing : 23.62 : 2024-11-09T21:37:06.682822100+01:00
+Testing : 23.62 : 2024-11-09T21:43:06.743176600+01:00
+Testing : 23.62 : 2024-11-09T21:49:06.787341+01:00
+Testing : 23.69 : 2024-11-09T21:55:06.635558400+01:00
+Testing : 23.69 : 2024-11-09T22:01:06.680719300+01:00
+Testing : 23.69 : 2024-11-09T22:07:06.740993800+01:00
+Testing : 23.69 : 2024-11-09T22:13:06.804454600+01:00
+Testing : 23.69 : 2024-11-09T22:19:06.730076800+01:00
+Testing : 23.69 : 2024-11-09T22:25:06.759983400+01:00
+Testing : 23.75 : 2024-11-09T22:31:06.955718800+01:00
+Testing : 23.75 : 2024-11-09T22:37:07.011862+01:00
+Testing : 23.81 : 2024-11-09T22:43:06.858950900+01:00
+Testing : 23.81 : 2024-11-09T22:49:06.915496300+01:00
+Testing : 23.81 : 2024-11-09T22:55:06.968830500+01:00
+Testing : 23.81 : 2024-11-09T23:01:07.018647600+01:00
+Testing : 23.81 : 2024-11-09T23:07:07.065748+01:00
+Testing : 23.81 : 2024-11-09T23:13:07.130193800+01:00
+Testing : 23.81 : 2024-11-09T23:19:06.999027700+01:00
+Testing : 23.81 : 2024-11-09T23:25:07.033888600+01:00
+Testing : 23.81 : 2024-11-10T01:36:49.987431400+01:00
+Testing : 23.81 : 2024-11-10T01:36:53.782642+01:00
+Testing : 23.81 : 2024-11-10T01:36:55.778440800+01:00
+Testing : 23.81 : 2024-11-10T01:36:57.779702400+01:00
+Testing : 23.87 : 2024-11-10T01:37:02.780810+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:04.403568300+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:07.780184700+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:07.841280100+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:50.784881800+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:52.785845700+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:54.409188300+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:55.407695500+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:37:56.407993700+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:38:23.769334600+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:38:46.292461900+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:42:03.533588+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:42:09.427859100+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:42:11.427341600+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:45:31.313922600+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:46:24.204211300+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:46:29.199827600+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:46:33.196682800+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:46:48.202128800+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:46:57.195575700+01:00
+Testing : Registered wrong temperature : 2024-11-10T01:47:06.215333900+01:00
+Testing : 23.87 : 2024-11-10T01:51:31.254755800+01:00
+Testing : 23.87 : 2024-11-10T01:57:31.334446700+01:00
+Testing : 23.87 : 2024-11-10T02:03:31.353842800+01:00
+Testing : 23.81 : 2024-11-10T02:09:31.417496400+01:00
+Testing : 23.87 : 2024-11-10T02:15:31.477086+01:00
+Testing : 23.81 : 2024-11-10T02:21:31.533313300+01:00
+Testing : 23.81 : 2024-11-10T02:27:31.380819+01:00
+Testing : 23.81 : 2024-11-10T02:33:31.424918300+01:00
+Testing : 23.81 : 2024-11-10T02:39:31.474105400+01:00
+Testing : 23.81 : 2024-11-10T02:45:31.535245200+01:00
+Testing : 23.81 : 2024-11-10T02:51:31.581704800+01:00
+Testing : 23.81 : 2024-11-10T02:57:31.637582500+01:00
+Testing : 23.75 : 2024-11-10T03:03:31.692370100+01:00
+Testing : 23.81 : 2024-11-10T03:09:31.545971+01:00
+Testing : 23.81 : 2024-11-10T03:15:31.603720100+01:00
+Testing : 23.81 : 2024-11-10T03:21:31.654109500+01:00
+Testing : 23.75 : 2024-11-10T03:27:31.710017900+01:00
+Testing : 23.81 : 2024-11-10T03:33:31.758113800+01:00
+Testing : 23.81 : 2024-11-10T03:39:31.803365900+01:00
+Testing : 23.75 : 2024-11-10T03:45:31.660137200+01:00
+Testing : 23.75 : 2024-11-10T03:51:31.705832900+01:00
+Testing : 23.81 : 2024-11-10T03:57:31.769786800+01:00
+Testing : 23.75 : 2024-11-10T04:03:31.812365500+01:00
+Testing : 23.81 : 2024-11-10T04:09:31.875429200+01:00
+Testing : 23.75 : 2024-11-10T04:15:31.930316+01:00
+Testing : 23.75 : 2024-11-10T04:21:31.975967700+01:00
+Testing : 23.75 : 2024-11-10T04:27:31.832024100+01:00
+Testing : 23.75 : 2024-11-10T04:33:31.876680300+01:00
+Testing : 23.81 : 2024-11-10T04:39:31.930700900+01:00
+Testing : 23.75 : 2024-11-10T04:45:31.987855800+01:00
+Testing : 23.75 : 2024-11-10T04:51:32.039978600+01:00
+Testing : 23.75 : 2024-11-10T04:57:32.097324200+01:00
+Testing : 23.75 : 2024-11-10T05:03:31.943592+01:00
+Testing : 23.75 : 2024-11-10T05:09:32.001319400+01:00
+Testing : 23.75 : 2024-11-10T05:15:32.050958600+01:00
+Testing : 23.75 : 2024-11-10T05:21:32.107253800+01:00
+Testing : 23.75 : 2024-11-10T05:27:32.151769+01:00
+Testing : 23.75 : 2024-11-10T05:33:32.202695700+01:00
+Testing : 23.75 : 2024-11-10T05:39:32.259081500+01:00
+Testing : 23.75 : 2024-11-10T05:45:32.102357800+01:00
+Testing : 23.75 : 2024-11-10T05:51:32.167963200+01:00
+Testing : 23.75 : 2024-11-10T05:57:32.212589400+01:00
+Testing : 23.75 : 2024-11-10T06:03:32.273087200+01:00
+Testing : 23.75 : 2024-11-10T06:09:32.326955900+01:00
+Testing : 23.75 : 2024-11-10T06:15:32.374055600+01:00
+Testing : 23.75 : 2024-11-10T06:21:32.218921800+01:00
+Testing : 23.75 : 2024-11-10T06:27:32.283617500+01:00
+Testing : 23.75 : 2024-11-10T06:33:32.331875400+01:00
+Testing : 23.75 : 2024-11-10T06:39:32.380636+01:00
+Testing : 23.75 : 2024-11-10T06:45:32.439269800+01:00
+Testing : 23.75 : 2024-11-10T06:51:32.323921100+01:00
+Testing : 23.75 : 2024-11-10T06:57:32.543978300+01:00
+Testing : 23.75 : 2024-11-10T07:03:32.396967200+01:00
+Testing : 23.75 : 2024-11-10T07:09:32.449504600+01:00
+Testing : 23.75 : 2024-11-10T07:15:32.503638300+01:00
+Testing : 23.75 : 2024-11-10T07:21:32.436371400+01:00
+Testing : 23.75 : 2024-11-10T07:27:32.603931+01:00
+Testing : 23.44 : 2024-11-10T07:33:32.665792200+01:00
+Testing : 23.12 : 2024-11-10T07:39:32.505573600+01:00
+Testing : 23.06 : 2024-11-10T07:45:32.561963600+01:00
+Testing : 23.0 : 2024-11-10T07:51:32.609317900+01:00
+Testing : 23.0 : 2024-11-10T07:57:32.666979+01:00
+Testing : 23.0 : 2024-11-10T08:03:32.725353400+01:00
+Testing : 23.0 : 2024-11-10T08:09:32.780123300+01:00
+Testing : 23.0 : 2024-11-10T08:15:32.825824200+01:00
+Testing : 22.94 : 2024-11-10T08:21:32.666316200+01:00
+Testing : 23.0 : 2024-11-10T08:27:32.729581800+01:00
+Testing : 23.0 : 2024-11-10T08:33:32.782005200+01:00
+Testor 1 : Registered wrong temperature : 85.00 : 2024-11-29T12:53:12.971975600+01:00
+Testor 1 : 23.56 : 2024-11-29T12:53:59.919386200+01:00
+Testor 1 : 23.56 : 2024-11-29T12:54:03.923427700+01:00
+Testor 1 : 23.5 : 2024-11-29T12:54:29.539735100+01:00
+Testor 1 : 23.5 : 2024-11-29T12:54:30.396163700+01:00
+Testor 1 : 23.5 : 2024-11-29T12:54:31.394820200+01:00
+Testor 1 : 23.5 : 2024-11-29T13:00:40.249319+01:00
+Testor 1 : 23.5 : 2024-11-29T13:06:40.302815500+01:00
+Testor 1 : 23.44 : 2024-11-29T13:12:40.348152700+01:00
+Testor 1 : 23.44 : 2024-11-29T13:18:40.411238300+01:00
+Testor 1 : 23.44 : 2024-11-29T13:24:40.471544700+01:00
+Testor 1 : 23.44 : 2024-11-29T13:30:40.311087500+01:00
+Testor 1 : 23.5 : 2024-11-29T13:36:40.366640300+01:00
+Testor 1 : 23.44 : 2024-11-29T13:42:40.423067700+01:00
+Testor 1 : 23.44 : 2024-11-29T13:48:40.481752300+01:00
+Testor 1 : 23.44 : 2024-11-29T13:54:40.535226200+01:00
+Testor 1 : 23.44 : 2024-11-29T14:00:40.587815700+01:00
+Testor 1 : 23.44 : 2024-11-29T14:06:40.446168200+01:00
+Testor 1 : 23.44 : 2024-11-29T14:12:40.493325400+01:00
+Testor 1 : 23.44 : 2024-11-29T14:18:40.555878400+01:00
+Testor 1 : 23.44 : 2024-11-29T14:24:40.606865100+01:00
+Testor 1 : 23.44 : 2024-11-29T14:30:40.656261100+01:00
+Testor 1 : 23.44 : 2024-11-29T14:36:40.712498400+01:00
+Testor 1 : 23.44 : 2024-11-29T14:42:40.572216900+01:00
+Testor 1 : 23.44 : 2024-11-29T14:48:40.623023500+01:00
+Testor 1 : 23.44 : 2024-11-29T14:54:40.670784900+01:00
+Testor 1 : 23.44 : 2024-11-29T15:00:40.730073200+01:00
+Testor 1 : 23.44 : 2024-11-29T15:06:40.774996900+01:00
+Testor 1 : 23.44 : 2024-11-29T15:12:40.631660100+01:00
+Testor 1 : 23.44 : 2024-11-29T15:18:40.692049100+01:00
+Testor 1 : 23.5 : 2024-11-29T15:24:40.760135900+01:00
+Testor 1 : 23.44 : 2024-11-29T15:30:40.797531400+01:00
+Testor 1 : 23.5 : 2024-11-29T15:36:40.854360600+01:00
+Testor 1 : 23.5 : 2024-11-29T15:42:40.901228300+01:00
+Testor 1 : 23.5 : 2024-11-29T15:48:40.977091100+01:00
+Testor 1 : 23.44 : 2024-11-29T15:54:40.806856300+01:00
+Testor 1 : 23.44 : 2024-11-29T16:00:40.870885+01:00
+Testor 1 : 23.44 : 2024-11-29T16:06:40.924596500+01:00
+Testor 1 : 23.44 : 2024-11-29T16:12:40.973608700+01:00
+Testor 1 : 23.44 : 2024-11-29T16:18:41.027209400+01:00
+Testor 1 : 23.44 : 2024-11-29T16:24:40.890287300+01:00
+Testor 1 : 23.44 : 2024-11-29T16:30:40.941356800+01:00
+Testor 1 : 23.44 : 2024-11-29T16:36:40.995611+01:00
+Testor 1 : 23.44 : 2024-11-29T16:42:41.037193700+01:00
+Testor 1 : 23.44 : 2024-11-29T16:48:41.106804100+01:00
+Testor 1 : 23.44 : 2024-11-29T16:54:41.152906100+01:00
+Testor 1 : 23.44 : 2024-11-29T17:00:41.010346700+01:00
+Testor 1 : 23.44 : 2024-11-29T17:06:41.058010800+01:00
+Testor 1 : 23.44 : 2024-11-29T17:12:41.123824400+01:00
+Testor 1 : 23.44 : 2024-11-29T17:18:41.176030400+01:00
+Testor 1 : 23.44 : 2024-11-29T17:24:41.230820800+01:00
+Testor 1 : 23.44 : 2024-11-29T17:30:41.282473300+01:00
+Testor 1 : 23.44 : 2024-11-29T17:36:41.128824+01:00
+Testor 1 : 23.44 : 2024-11-29T17:42:41.185197200+01:00
+Testor 1 : 23.44 : 2024-11-29T17:48:41.243554200+01:00
+Testor 1 : 23.44 : 2024-11-29T17:54:41.288024500+01:00
+Testor 1 : 23.44 : 2024-11-29T18:00:41.355312400+01:00
+Testor 1 : 23.44 : 2024-11-29T18:06:41.213873900+01:00
